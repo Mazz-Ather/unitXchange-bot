@@ -11,7 +11,7 @@ load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
-    page_title="Chat with Gemini-Pro!",
+    page_title="Chat with unitXchange!",
     page_icon="֎",  # Favicon emoji
     layout="wide",  # Changed to wide for better layout
 )
